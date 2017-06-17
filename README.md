@@ -1,5 +1,5 @@
 ## What is this ##
-It is a cifar-10 dataset model built with Keras   
+It is a cifar-10 dataset classification model built with Keras   
 Check Keras: http://keras.io/
 
 ## Performance ##
