@@ -1,9 +1,9 @@
 ## What is this ##
 It is a cifar-10 dataset classification model built with Keras   
-Check Keras: http://keras.io/
+Check out Keras: http://keras.io/
 
 ## Performance ##
-N/A
+ Within 15 epochs it reaches `test_accuracy: 0.744799971581`
 
 ## Improvement capabilities ##
 * data augumentation
